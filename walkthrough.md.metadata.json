@@ -1,0 +1,5 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_WALKTHROUGH",
+  "summary":  "AI 콘텐츠 워크보드 웹페이지 개발이 완료되었습니다. 다크 모드 기반의 프리미엄 디자인과 LocalStorage를 활용한 데이터 저장 기능을 구현했습니다. 사용자는 별도의 설치 없이 index.html 파일을 실행하여 즉시 사용할 수 있습니다.",
+  "updatedAt":  "2026-05-09T06:06:12.267783100Z"
+}
